@@ -24,8 +24,8 @@ The task was to build a product preview card component
 
 ### Links
 
-- Solution URL: [mysolution](https://github.com/YaroslavaShyt/FrontendMentor)
-- Live Site URL: [result](https://yaroslavashyt.github.io/FrontendMentor/)
+- Solution URL: [mysolution](https://github.com/YaroslavaShyt/product-preview-card-component-main/edit/master/)
+- Live Site URL: [result](https://yaroslavashyt.github.io/product-preview-card-component-main/#)
 
 ### Built with
 
