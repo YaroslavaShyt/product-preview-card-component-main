@@ -12,7 +12,7 @@ main{
     border-width: 0;
     border-radius: 0.7rem;
 }
-#computer-img{
+.computer-img{
     position: relative;
     display: block;
     height: 30rem;
@@ -22,7 +22,7 @@ main{
     border: transparent;
     border-radius: 0.7rem;
 }
-#mobile-img{
+.mobile-img{
     display: none;
 }
 .info{
@@ -57,7 +57,7 @@ button img{
    font-weight: 700;
 }
 
-#current-price{
+.current-price{
     color: hsl(158, 36%, 37%);
     font-size: 2rem;
     margin-right: 1rem;
@@ -66,7 +66,7 @@ button img{
     font-weight: 700;
 }
 
-#before-price{
+.before-price{
     color: hsl(228, 12%, 48%);
     position: relative;
     display: inline-block;
@@ -89,6 +89,7 @@ button img{
     font-weight: 700;
     font-size: 0.8rem;
     letter-spacing: 0.6rem;
+    text-transform: uppercase;
 }
 footer{
     text-align: center;
@@ -100,10 +101,10 @@ footer{
         width: 21rem;
         height: auto;
     }
-    #computer-img{
+    .computer-img{
         display: none;
     }
-    #mobile-img{
+    .mobile-img{
         display: block;
         position: relative;
         float: none;
